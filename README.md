@@ -1,0 +1,2 @@
+# InitweathersampleAI
+weather sample
